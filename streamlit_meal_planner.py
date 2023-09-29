@@ -9,7 +9,7 @@ from prompts import pre_prompt_b, pre_prompt_l, pre_prompt_d, pre_breakfast, pre
     example_response_l, example_response_d, negative_prompt
 
 # ANTHROPIC_API_KEY = st.secrets["apikey"]
-OPEN_AI_API_KEY = st.secrets["apikey"]
+OPEN_AI_API_KEY = st.secrets["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"]
 
 openai.api_key = OPEN_AI_API_KEY
 
