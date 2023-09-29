@@ -191,7 +191,6 @@ hide_streamlit_style = """
                     # MainMenu {visibility: hidden;}
                     footer {visibility: hidden;}
                     footer:after {
-                    content:'Made with Passion by Shravan and Team'; 
                     visibility: visible;
     	            display: block;
     	            position: relative;
